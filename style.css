@@ -1,0 +1,22 @@
+* {
+  /*reset*/
+  margin: 0;
+  padding: 0;
+  font-family: "Antonio", sans-serif;
+}
+
+h2, h3 {
+  text-align: center;
+  justify-items: center;
+  margin: 10px;
+  padding: 20px 10px 10px 10px;
+}
+
+.botonesCotizador {
+  text-align: center;
+  justify-items: center;
+  margin: 10px;
+  padding: 20px 10px 10px 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
